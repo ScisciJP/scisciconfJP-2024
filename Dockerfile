@@ -2,6 +2,7 @@ FROM jekyll/jekyll
 
 COPY ./Gemfile *.gemspec ./
 
+RUN gem install webrick
 RUN bundle install
 RUN gem install bundler:1.17.2
 
