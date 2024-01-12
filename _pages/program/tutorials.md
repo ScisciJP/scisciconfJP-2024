@@ -1,53 +1,32 @@
 ---
-title: Tutorials
+title: チュートリアル
 layout: single
-excerpt: "ACL 2023 Tutorials."
+excerpt: "第1回Science of science研究会"
 permalink: /program/tutorials/
-toc: true
-toc_sticky: true
-toc_icon: "cog" 
 sidebar: 
     nav: program
+toc: true
+toc_sticky: true
+toc_icon: "cog"
 ---
 
-## Morning (09:00 - 12:30)
+本チュートリアルでは、Science of scienceで用いられる大規模学術文献データを分析のハンズオンを行います。
+実行環境はGoogle Collaboratoryを用いますので、pythonのプログラミング経験推奨ですが、未経験の方でもご参加いただけます。
 
-**T1: Goal Awareness for Conversational AI: Proactivity, Non-collaborativity, and Beyond**<br>
+## 前半(13:15~15:30)
 
-* Location: Metropolitan East
-* _Yang Deng, Wenqiang Lei, Minlie Huang and Tat-Seng Chua_
+- OpenAlexの説明
+- 開発環境の説明
+- OpenAlexを活用した分析事例の紹介
 
-**T2: Complex Reasoning in Natural Language**<br>
+## Coffee Break(15:30~16:00)
 
-* Location: Metropolitan Centre
-* _Wenting Zhao, Mor Geva, Bill Yuchen Lin, Michihiro Yasunaga, Aman Madaan and Tao Yu_
+## 後半(16:00~18:00)
 
-**T3: Everything you need to know about Multilingual LLMs: Towards fair, performant and reliable models for languages of the world**<br>
-
-* Location: Metropolitan West
-* _Sunayana Sitaram, Monojit Choudhury, Barun Patra, Vishrav Chaudhary, Kabir Ahuja and Kalika Bali_
-
-
-## Afternoon (14:00 - 17:30)
-
-**T4: Generating Text from Language Models**<br>
-
-* Location: Metropolitan East
-* _Afra Amini, Ryan Cotterell, John Hewitt, Clara Meister and Tiago Pimentel_
-
-**T5: Indirectly Supervised Natural Language Processing**<br>
-
-* Location: Metropolitan Centre
-* _Wenpeng Yin, Muhao Chen, Ben Zhou, Qiang Ning, Kai-Wei Chang and Dan Roth_
-
-**T6: Retrieval-based Language Models and Applications**<br>
-
-* Location: Metropolitan West
-* _Akari Asai, Sewon Min, Zexuan Zhong and Danqi Chen_
-
+- 分析
+- 分析結果の発表
+- 質疑応答
 
 ## Tutorial Chairs
 
-* Yun-Nung (Vivian) Chen, National Taiwan University (Taiwan)
-* Margot Mieskes, University of Applied Sciences, Darmstadt (Germany)
-* Siva Reddy, McGill University and Mila (Canada)
+* 三浦 崇寛 (東京大学)
