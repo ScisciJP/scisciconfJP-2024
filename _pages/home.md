@@ -1,11 +1,11 @@
 ---
-title: "The 61st Annual Meeting of the Association for Computational Linguistics"
+title: "第1回 Science of science研究会"
 layout: splash
 permalink: /
 header:
   overlay_image: "/assets/images/toronto/wallpaperflare.com_toronto.jpg"
   caption: '<a href="https://www.wallpaperflare.com/toronto-skyline-at-night-images-android-wallpapers-for-your-desktop-or-phone-3840×2160-wallpaper-bnmtd" target="_blank">Photo @ Wallpaper Flare</a>'
-excerpt: "Toronto, Canada<br>July 9-14, 2023"
+excerpt: "東京大学<br>March 16-17, 2024"
 ---
 
 ## Welcome!
@@ -24,10 +24,12 @@ Please see the [registration](/registration/) page for more details.
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| 2023-06-27 | The link of [Mini Conference](https://virtual2023.aclweb.org) is added to the top menu.
-| 2023-06-27 | [Conference Handbook](/downloads/acl2023-handbook-v3.pdf) is posted under the *Program*.
-| 2023-06-19 | [Discounted Virtual Registration](https://2023.aclweb.org/registration/discounted_virtual_registration/) is posted under the *Registration*.
-| 2023-06-17 | [Best Paper Committee](/committees/best_paper/) is posted under the *Committees*.
+| 2024-01-17 | [プログラム](/program)を公開しました.
+| 2024-01-17 | 2024年の第1回Scisci研究会Webサイトを公開しました.
+<!-- | 2023-06-27 | The link of [Mini Conference](https://virtual2023.aclweb.org) is added to the top menu. -->
+<!-- | 2023-06-27 | [Conference Handbook](/downloads/acl2023-handbook-v3.pdf) is posted under the *Program*. -->
+<!-- | 2023-06-19 | [Discounted Virtual Registration](https://2023.aclweb.org/registration/discounted_virtual_registration/) is posted under the *Registration*. -->
+<!-- | 2023-06-17 | [Best Paper Committee](/committees/best_paper/) is posted under the *Committees*. -->
 | 2023-06-15 | [Accepted Papers for Industry Track](/program/accepted_industry_track/) is posted under the *Program*.
 | 2023-06-15 | [Accepted Papers for System Demonstration](/program/accepted_system_demonstration/) is posted under the *Program*.
 | 2023-06-15 | [Call for D&I Socials and BoF Sessions Organizers](/calls/bof/) is posted under the *Calls*.
@@ -63,7 +65,7 @@ Please see the [registration](/registration/) page for more details.
 | 2022-09-21 | The official ACL 2023 website is launched. |
 {: .news-table}
 
-## Conference Schedule
+## 学会スケジュール
 
 <style>
 .dates-table { font-size: .8em; }
@@ -71,8 +73,7 @@ Please see the [registration](/registration/) page for more details.
 .dates-table del { color: #888; }
 </style>
 
-| Early Registration | June 18, 2023 |
-| Tutorials | July 9, 2023 |
-| Conference | July 10-12, 2023 |
-| Workshops | July 13-14, 2023 |
+| 早期登録 | June 18, 2023 |
+| チュートリアル | 2024年3月16日 |
+| 研究会 | 2024年3月17日 |
 {: .dates-table}
