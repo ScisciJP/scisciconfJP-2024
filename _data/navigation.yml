@@ -1,57 +1,33 @@
 # main links in masthead.html
 main:
-  # - title: "MiniConf"
-  #   url: https://virtual2023.aclweb.org
-  - title: "Program"
+  - title: "Science of scienceとは"
+    url: /about/
+  - title: "プログラム"
     url: /program/
-  - title: "Registration"
+  - title: "参加申し込み"
     url: /registration/
-  - title: "Venue"
+  - title: "会場"
     url: /venue/
-  - title: "Participants"
-    url: /participants/about_acl/
-  - title: "Committees"
+  - title: "運営委員"
     url: /committees/organization/
-  - title: "Sponsors"
+  - title: "スポンサー"
     url: /sponsors/
   - title: "FAQ"
     url: /faq/
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
   - title: "Calls"
     url: /calls/main_conference/
 
 program:
-  - title: "Programs"
+  - title: "プログラム"
     children:
-      - title: "Conference Overview"
+      - title: "全体プログラム"
         url: /program/
-      - title: "Workshops"
-        url: /program/workshops/
-      - title: "Tutorials"
+      - title: "チュートリアル"
         url: /program/tutorials/
-  - title: Events
-    children:
-      - title: "Keynotes"
-        url: /program/keynotes/
-      - title: "Social Programs"
-        url: /program/social/
-  - title: Awards
-    children:
-      - title: "Best Papers"
-        url: /program/best_papers/
-      - title: "Best Reviewers"
-        url: /program/best_reviewers/
-  - title: "Accepted Papers"
-    children:
-      - title: "Main Conference"
-        url: /program/accepted_main_conference/
-      - title: "Findings"
-        url: /program/accepted_findings/
-      - title: "Industry Track"
-        url: /program/accepted_industry_track/
-      - title: "System Demonstration"
-        url: /program/accepted_system_demonstration/
+      - title: "研究会"
+        url: /program/conference/
 
 calls:
   - title: "Call for Papers"
@@ -95,17 +71,17 @@ committees:
       - title: "Best Paper Committee"
         url: /committees/best_paper/
 
-participants:
-  - title: "Participants Information"
-    children:
-      - title: "About ACL"
-        url: /participants/about_acl/
-      - title: "Invitation Letter"
-        url: /participants/invitation_letter/
-      - title: "Ethical Policies"
-        url: /participants/ethical_policies/
-      - title: "Cancellation Policy"
-        url: /participants/cancellation_policy/
+# participants:
+#   - title: "Participants Information"
+#     children:
+#       - title: "About ACL"
+#         url: /participants/about_acl/
+#       - title: "Invitation Letter"
+#         url: /participants/invitation_letter/
+#       - title: "Ethical Policies"
+#         url: /participants/ethical_policies/
+#       - title: "Cancellation Policy"
+#         url: /participants/cancellation_policy/
 
 registration:
   - title: "Registration"
