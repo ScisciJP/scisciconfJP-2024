@@ -9,7 +9,8 @@ permalink: /venue/
 
 第1回Science of science研究会は、東京大学 伊藤国際学術研究センターにて開催されます。
 
-住所: 〒113-0033 東京都文京区本郷７丁目３−１ 東京大学本郷キャンパス
+会場Webサイト: [こちら](https://www.u-tokyo.ac.jp/adm/iirc/ja/index.html)
+住所: 〒113-0033 東京都文京区本郷７丁目３−１ 東京大学本郷キャンパス 伊藤国際学術研究センター
 
 <!-- image_path: /assets/images/access/itokokusai.jpeg -->
 ![マップ](/assets/images/access/itokokusai.jpeg)
@@ -40,12 +41,19 @@ permalink: /venue/
 
 <h2>チュートリアル運営委員</h2>
 
-Contact: miura@ipr-ctr.t.u-tokyo.ac.jp
+<!-- Contact: miura@ipr-ctr.t.u-tokyo.ac.jp -->
 
 {% include committee-member.html
    name="三浦 崇寛"
    picture="/assets/images/committee/takahiro_miura.jpg"
    site="https://www.tttmiura.com/"
+   institution="東京大学"
+%}
+
+{% include committee-member.html
+   name="神楽坂 やちま"
+   picture="/assets/images/committee/yatima_kagurazaka.jpeg"
+   site="https://twitter.com/Yatima_K"
    institution="東京大学"
 %}
 
