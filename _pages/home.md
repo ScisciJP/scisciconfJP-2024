@@ -15,7 +15,7 @@ excerpt: "東京大学<br>March 16-17, 2024"
 
 
 申込締切は**3月4日(月)**、原稿締切は**3月8日(金)**になります。
-詳しくは[Call for papers](/call)をご覧ください.
+詳しくは[発表募集/参加申込](/calls/)をご覧ください.
 {: .text-center .notice--info}
 
 ## News

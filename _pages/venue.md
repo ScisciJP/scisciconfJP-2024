@@ -10,6 +10,7 @@ permalink: /venue/
 第1回Science of science研究会は、東京大学 伊藤国際学術研究センターにて開催されます。
 
 会場Webサイト: [こちら](https://www.u-tokyo.ac.jp/adm/iirc/ja/index.html)
+
 住所: 〒113-0033 東京都文京区本郷７丁目３−１ 東京大学本郷キャンパス 伊藤国際学術研究センター
 
 <!-- image_path: /assets/images/access/itokokusai.jpeg -->
