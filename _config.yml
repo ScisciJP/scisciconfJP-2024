@@ -17,11 +17,11 @@ livereload: true
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ACL 2023"
+title                    : "第1回Science of Science研究会"
 title_separator          : "-"
-name                     : "ACL"
+name                     : "ScisciConfJP"
 description              : "Official website for the 61st Annual Meeting of the Association for Computational Linguistics"
-url                      : "https://acl-org.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://sciscijp.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"naacl-org/naacl-2021-website" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

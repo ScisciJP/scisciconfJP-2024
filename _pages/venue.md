@@ -1,38 +1,52 @@
 ---
-title: Venue
+title: 開催地
+excerpt: "第1回Science of science研究会"
 layout: single
 permalink: /venue/
-toc: true
-toc_sticky: true
-toc_icon: "cog"
 ---
 
-## About Toronto
+<h2> 東京大学 伊藤国際学術研究センター</h2>
 
-A multicultural metropolis on the shores of Lake Ontario, Toronto is Canada’s centre for arts, food, business and fun – all under the watchful gaze of the iconic CN Tower.
-Please visit [here](https://theculturetrip.com/north-america/canada/toronto/) for more details.
+第1回Science of science研究会は、東京大学 伊藤国際学術研究センターにて開催されます。
+
+住所: 〒113-0033 東京都文京区本郷７丁目３−１ 東京大学本郷キャンパス
+
+<!-- image_path: /assets/images/access/itokokusai.jpeg -->
+![マップ](/assets/images/access/itokokusai.jpeg)
+
+<h2>運営委員</h2>
+
+{% include committee-member.html
+   name="浅谷 公威"
+   picture="/assets/images/committee/kimitaka_asatani.jpg"
+   site="https://researchmap.jp/kimitaka_asatani"
+   institution="東京大学"
+%}
+
+{% include committee-member.html
+   name="吉田 光男"
+   picture="/assets/images/committee/mitsuo_yoshida.jpg"
+   site="https://www.gssm.otsuka.tsukuba.ac.jp/~mitsuo/"
+   institution="筑波大学"
+%}
+
+{% include committee-member.html
+   name="松井 暉"
+   picture="/assets/images/committee/akira_matsui.jpeg"
+   site="https://er-web.ynu.ac.jp/html/MATSUI_Akira/ja.html"
+   institution="横浜国立大学"
+%}
 
 
-## Conference Venue
+<h2>チュートリアル運営委員</h2>
 
-ACL 2023 will take place in the Westin Harbour Castle, Toronto:
-<!-- (https://www.marriott.com/en-us/hotels/yyzwi-the-westin-harbour-castle-toronto/overview/) -->
+Contact: miura@ipr-ctr.t.u-tokyo.ac.jp
 
-* Address: 1 Harbour Square, Toronto, ON M5J 1A6, Canada
-* Phone: +1 416-869-1600
+{% include committee-member.html
+   name="三浦 崇寛"
+   picture="/assets/images/committee/takahiro_miura.jpg"
+   site="https://www.tttmiura.com/"
+   institution="東京大学"
+%}
 
-Please use the [direct hotel link](https://www.marriott.com/en-us/hotels/yyzwi-the-westin-harbour-castle-toronto/overview/) to see if they have availability or search [Bookings.com](https://www.booking.com) for other accommodations. We recommend you not hold off on booking as the Downtown area has a lot of events taking place the week of the ACL Conference. 
-
-
-<!-- 
-Group Block Valid until June 21, 2023 or Sold Out.<br>
-Secure Best Rate at the Host Hotel Now! [CLICK HERE](https://book.passkey.com/e/50488246)
-{: .text-center .notice--info}
-
-We are sorry to say the hotel is on the verge of a sell out and we are unable to add additional rooms to the ACL block. Currently rooms are available for the following nights and will sell out soon:
-
-* Sunday, July 9
-* Monday, July 10
-* Tuesday, July 11
-* Thursday, July 13
- -->
+<!-- <h2>学生委員</h2> -->

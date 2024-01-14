@@ -4,20 +4,15 @@ main:
     url: /about/
   - title: "プログラム"
     url: /program/
-  - title: "参加申し込み"
-    url: /registration/
-  - title: "会場"
+  - title: "発表募集/参加申込"
+    url: /calls/
+  - title: "会場/運営委員"
     url: /venue/
-  - title: "運営委員"
-    url: /committees/organization/
   - title: "スポンサー"
     url: /sponsors/
-  - title: "FAQ"
-    url: /faq/
-  # - title: "Blog"
-  #   url: /blog/
-  - title: "Calls"
-    url: /calls/main_conference/
+  # - title: "FAQ"
+  #   url: /faq/
+  
 
 program:
   - title: "プログラム"
@@ -28,65 +23,3 @@ program:
         url: /program/tutorials/
       - title: "研究会"
         url: /program/conference/
-
-calls:
-  - title: "Call for Papers"
-    children:
-      - title: "Main Conference"
-        url: /calls/main_conference/
-      - title: "Industry Track"
-        url: /calls/industry_track/
-      - title: "System Demonstration"
-        url: /calls/system_demonstration/
-      - title: "Student Research Workshop"
-        url: /calls/student_research_workshop/
-      - title: "Style Files and Formatting"
-        url: /calls/style_and_formatting/
-  - title: "Call for Volunteers"
-    children:
-      - title: "Student Volunteer Program"
-        url: /calls/volunteers/
-  - title: "Call for Subsidies"
-    children:
-      - title: "Diversity & Inclusion Program"
-        url: /calls/subsidies/
-  - title: "Call for Organizers"
-    children:
-      - title: "D&I Socials & BoF Sessions"
-        url: /calls/bof/
-  - title: "Call for Proposals"
-    children:
-      - title: "Workshops"
-        url: /calls/workshops/
-      - title: "Tutorials"
-        url: /calls/tutorials/
-
-committees:
-  - title: "Committees"
-    children:
-      - title: "Organizing Committee"
-        url: /committees/organization/
-      - title: "Program Committee"
-        url: /committees/program/
-      - title: "Best Paper Committee"
-        url: /committees/best_paper/
-
-# participants:
-#   - title: "Participants Information"
-#     children:
-#       - title: "About ACL"
-#         url: /participants/about_acl/
-#       - title: "Invitation Letter"
-#         url: /participants/invitation_letter/
-#       - title: "Ethical Policies"
-#         url: /participants/ethical_policies/
-#       - title: "Cancellation Policy"
-#         url: /participants/cancellation_policy/
-
-registration:
-  - title: "Registration"
-    children:
-      - title: "Registration"
-        url: /registration/
-      - title: "Discounted Virtual Registration"
-        url: /registration/discounted_virtual_registration/
