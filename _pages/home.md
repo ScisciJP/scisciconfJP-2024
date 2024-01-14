@@ -15,7 +15,7 @@ excerpt: "東京大学<br>March 16-17, 2024"
 
 
 申込締切は**3月4日(月)**、原稿締切は**3月8日(金)**になります。
-詳しくは[発表募集/参加申込](/calls/)をご覧ください.
+詳しくは発表募集/参加申込をご覧ください.
 {: .text-center .notice--info}
 
 ## News
@@ -25,7 +25,7 @@ excerpt: "東京大学<br>March 16-17, 2024"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| 2024-01-17 | [プログラム](/program)を公開しました.
+| 2024-01-17 | プログラムを公開しました.
 | 2024-01-17 | 2024年の第1回Scisci研究会Webサイトを公開しました.
 {: .news-table}
 
