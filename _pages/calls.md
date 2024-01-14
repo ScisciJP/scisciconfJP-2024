@@ -42,6 +42,9 @@ Science of science研究会では、学術活動を対象とするあらゆる�
 * Theoretical discussions and conceptualizations of science
 * Causal inference in the science of science and innovation 
 
+<br>
+<br>
+
 # 発表申し込み
 
 発表申し込みは、こちらからお願いいたします。
