@@ -15,8 +15,7 @@ toc_icon: "cog"
 </style>
 
 <!-- Please refer to our [blog posts](/blog/) for more details. -->
-<!-- 詳細なプログラムについては、ナビゲーションバーの[チュートリアル](/program/tutorials)、[研究会](/program/conference)からご覧ください。 -->
-詳細なプログラムについては、ナビゲーションバーからご覧ください。
+詳細なプログラムについては、ナビゲーションバーの[チュートリアル]({{ site.baseurl }}/program/tutorials)、[研究会]({{ site.baseurl }}/program/conference)からご覧ください。
 
 
 ## 3月16日(土)
