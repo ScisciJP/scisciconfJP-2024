@@ -14,7 +14,7 @@ permalink: /venue/
 住所: 〒113-0033 東京都文京区本郷７丁目３−１ 東京大学本郷キャンパス 伊藤国際学術研究センター
 
 <!-- image_path: /assets/images/access/itokokusai.jpeg -->
-![マップ](/assets/images/access/itokokusai.jpeg)
+![マップ]({{ site.baseurl }}/assets/images/access/itokokusai.jpeg)
 
 <h2>運営委員</h2>
 
