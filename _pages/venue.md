@@ -1,6 +1,5 @@
 ---
 title: 開催地
-excerpt: "第1回Science of science研究会"
 layout: single
 permalink: /venue/
 ---
@@ -8,13 +7,15 @@ permalink: /venue/
 <h2> 東京大学 伊藤国際学術研究センター</h2>
 
 第1回Science of science研究会は、東京大学 伊藤国際学術研究センターにて開催されます。
+伊藤国際学術研究センターは、伊藤雅俊氏（株式会社セブン＆アイ・ホールディングス名誉会長）並びに伊藤伸子氏（同夫人）による、東京大学への寄附により、社会と東京大学との関わりを深めるための社会連携及び国際交流拠点として設立されました。 グローバルな視野を持ったリーダー育成の施設、学究のための国際会議・種々学会の施設、レセプションやファカルティクラブの施設としての役割を担うことが期待されています。
 
 会場Webサイト: [こちら](https://www.u-tokyo.ac.jp/adm/iirc/ja/index.html)
 
 住所: 〒113-0033 東京都文京区本郷７丁目３−１ 東京大学本郷キャンパス 伊藤国際学術研究センター
 
-<!-- image_path: /assets/images/access/itokokusai.jpeg -->
 ![マップ]({{ site.baseurl }}/assets/images/access/itokokusai.jpeg)
+
+<h1>運営</h1>
 
 <h2>運営委員</h2>
 
@@ -39,6 +40,7 @@ permalink: /venue/
    institution="横浜国立大学"
 %}
 
+<br>
 
 <h2>チュートリアル運営委員</h2>
 

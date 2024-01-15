@@ -1,6 +1,5 @@
 ---
 title: Science of scienceとは？
-excerpt: "第1回Science of science研究会"
 layout: single
 permalink: /about/
 toc: true

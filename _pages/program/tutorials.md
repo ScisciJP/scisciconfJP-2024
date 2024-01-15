@@ -1,7 +1,6 @@
 ---
 title: チュートリアル
 layout: single
-excerpt: "第1回Science of science研究会"
 permalink: /program/tutorials/
 sidebar: 
     nav: program
@@ -10,23 +9,24 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-本チュートリアルでは、Science of scienceで用いられる大規模学術文献データを分析のハンズオンを行います。
-実行環境はGoogle Collaboratoryを用いますので、pythonのプログラミング経験推奨ですが、未経験の方でもご参加いただけます。
+本チュートリアルでは、Science of scienceに初めて触れる方のために、汎用的な学術文献データセットである[OpenAlex](https://openalex.org/)のハンズオン分析を行います。
+データの利用方法から簡易分析まで、本チュートリアルに参加いただければ一通りの分析が可能です。
+実行環境はこちらで用意いたしますので、お気軽にご参加ください。
 
-## 前半(13:15~15:30)
+## 実行環境
 
-- OpenAlexの説明
-- 開発環境の説明
-- OpenAlexを活用した分析事例の紹介
+* PCをご持参ください。
+* Google Collaboratory (Pythonプログラミング経験推奨、未経験可)
 
-## Coffee Break(15:30~16:00)
+## アジェンダ
 
-## 後半(16:00~18:00)
-
-- 分析
-- 分析結果の発表
-- 質疑応答
+- (15:15~15:30) Science of scienceの概要
+- (15:30~15:45) OpenAlexの説明
+- (15:45~16:00) OpenAlexを活用した分析事例の紹介
+- (16:00~17:45) 開発実践
+- (17:45~18:00) 質疑応答
 
 ## Tutorial Chairs
 
 * 三浦 崇寛 (東京大学)
+* 神楽坂 やちま (東京大学)
