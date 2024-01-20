@@ -47,9 +47,9 @@ permalink: /venue/
 <!-- Contact: miura@ipr-ctr.t.u-tokyo.ac.jp -->
 
 {% include committee-member.html
-   name="三浦 崇寛"
-   picture="/assets/images/committee/takahiro_miura.jpg"
-   site="https://www.tttmiura.com/"
+   name="三浦 千哲"
+   picture="/assets/images/committee/chiaki_miura.jpg"
+   site="https://twitter.com/muler314"
    institution="東京大学"
 %}
 
@@ -60,4 +60,12 @@ permalink: /venue/
    institution="東京大学"
 %}
 
+<h2>プログラム運営委員</h2>
+
+{% include committee-member.html
+   name="三浦 崇寛"
+   picture="/assets/images/committee/takahiro_miura.jpg"
+   site="https://www.tttmiura.com/"
+   institution="東京大学"
+%}
 <!-- <h2>学生委員</h2> -->

@@ -12,7 +12,7 @@ excerpt: "東京大学<br>March 16-17, 2024"
 ## Science of science研究会
 
 Science of science研究会とは、近年注目度を高めているScience of scienceに関わる卓越した研究コミュニティを作り、トップジャーナルに挑戦できる研究成果、実社会に直結する重要な課題解決に資する議論、優秀な研究者の育成・発掘に取り組むために発足した研究会です。
-主な取り組みとして、年次研究会の開催、Science of scienceジャーナルクラブの運営を行い、優れた研究成果を生み出すことを第一の目標としています。
+主な取り組みとして、年次研究会の開催、Science of scienceセミナーの運営を行い、優れた研究成果を生み出すことを第一の目標としています。
 
 詳しくは[こちら]({{ site.baseurl }}/about)をご覧ください。
 
@@ -34,8 +34,8 @@ Science of science研究会とは、近年注目度を高めているScience of 
 .dates-table del { color: #888; }
 </style>
 
-| 参加登録 | 2024年3月4日(月) 23:59(JST)|
-| 提出締切 | 2024年3月8日(金) 23:59(JST)|
+| 参加申込締切 | 2024年3月4日(月) 23:59(JST)|
+| 発表申込締切 | 2024年3月8日(金) 23:59(JST)|
 | チュートリアル | 2024年3月16日(土) 15:00~18:00 |
 | 研究会 | 2024年3月17日(日) 9:00~17:30 |
 {: .dates-table}
@@ -47,8 +47,8 @@ Science of science研究会とは、近年注目度を高めているScience of 
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| 2024-01-17 | [プログラム]({{ site.baseurl }}/program)を公開しました.
-| 2024-01-17 | 2024年の第1回Scisci研究会Webサイトを公開しました.
+| 2024-01-24 | [プログラム]({{ site.baseurl }}/program)を公開しました.
+| 2024-01-24 | 2024年の第1回Scisci研究会Webサイトを公開しました.
 {: .news-table}
 
 
