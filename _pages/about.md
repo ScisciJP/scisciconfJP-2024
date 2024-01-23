@@ -34,33 +34,33 @@ Science of scienceの対象は、論文数・引用・共著などの伝統的�
 特に近年は、オープンで大規模なデータセットの開発が進んでおり[12,13,14]、さまざまなアウトプットにつながっています。
 
 
-[1] [Fortunato, S. et al. (2018). Science of science. Science, 359(6379), eaao0185.](https://www.science.org/doi/full/10.1126/science.aao0185)
+[1] [Fortunato, S. et al. (2018). Science of science. Science, 359(6379), eaao0185.](https://www.science.org/doi/full/10.1126/science.aao0185){:target="_blank"}
 
-[2] [Wang, D. & Barabási, A. L. (2021). The science of science. Cambridge University Press.](https://www.dashunwang.com/book/the-science-of-science)
+[2] [Wang, D. & Barabási, A. L. (2021). The science of science. Cambridge University Press.](https://www.dashunwang.com/book/the-science-of-science){:target="_blank"}
 
-[3] [Price, D. J. D. S. (1963). Little science, big science. Columbia University Press.](https://philpapers.org/rec/PRILSB)
+[3] [Price, D. J. D. S. (1963). Little science, big science. Columbia University Press.](https://philpapers.org/rec/PRILSB){:target="_blank"}
 
-[4] [Tomkins, A. et al. (2017). Reviewer bias in single-versus double-blind peer review. Proceedings of the National Academy of Sciences, 114(48), 12708-12713.](https://www.pnas.org/doi/10.1073/pnas.1707323114)
+[4] [Tomkins, A. et al. (2017). Reviewer bias in single-versus double-blind peer review. Proceedings of the National Academy of Sciences, 114(48), 12708-12713.](https://www.pnas.org/doi/10.1073/pnas.1707323114){:target="_blank"}
 
-[5] [Liu, F. et al. (2023). Non-White scientists appear on fewer editorial boards, spend more time under review, and receive fewer citations. Proceedings of the National Academy of Sciences, 120(13), e2215324120.](https://www.pnas.org/doi/10.1073/pnas.2215324120)
+[5] [Liu, F. et al. (2023). Non-White scientists appear on fewer editorial boards, spend more time under review, and receive fewer citations. Proceedings of the National Academy of Sciences, 120(13), e2215324120.](https://www.pnas.org/doi/10.1073/pnas.2215324120){:target="_blank"}
 
-[6] [Liu, F. et al. (2023). Gender inequality and self-publication are common among academic editors. Nature human behaviour, 7(3), 353-364.](https://www.nature.com/articles/s41562-022-01498-1)
+[6] [Liu, F. et al. (2023). Gender inequality and self-publication are common among academic editors. Nature human behaviour, 7(3), 353-364.](https://www.nature.com/articles/s41562-022-01498-1){:target="_blank"}
 
-[7] [Teplitskiy, M. et al. (2022). How status of research papers affects the way they are read and cited. Research Policy, 51(4), 104484.](https://www.sciencedirect.com/science/article/pii/S0048733322000129)
+[7] [Teplitskiy, M. et al. (2022). How status of research papers affects the way they are read and cited. Research Policy, 51(4), 104484.](https://www.sciencedirect.com/science/article/pii/S0048733322000129){:target="_blank"}
 
-[8] [Sinatra, R. et al. (2016). Quantifying the evolution of individual scientific impact. Science, 354(6312), aaf5239.](https://www.science.org/doi/full/10.1126/science.aaf5239)
+[8] [Sinatra, R. et al. (2016). Quantifying the evolution of individual scientific impact. Science, 354(6312), aaf5239.](https://www.science.org/doi/full/10.1126/science.aaf5239){:target="_blank"}
 
-[9] [Foster, J. G. et al. (2015). Tradition and innovation in scientists’ research strategies. American Sociological Review, 80(5), 875-908.](https://journals.sagepub.com/doi/abs/10.1177/0003122415601618)
+[9] [Foster, J. G. et al. (2015). Tradition and innovation in scientists’ research strategies. American Sociological Review, 80(5), 875-908.](https://journals.sagepub.com/doi/abs/10.1177/0003122415601618){:target="_blank"}
 
-[10] [Marx, M., & Hsu, D. H. (2022). Revisiting the entrepreneurial commercialization of academic science: Evidence from “Twin” discoveries. Management Science, 68(2), 1330-1352.](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.3966)
+[10] [Marx, M., & Hsu, D. H. (2022). Revisiting the entrepreneurial commercialization of academic science: Evidence from “Twin” discoveries. Management Science, 68(2), 1330-1352.](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.3966){:target="_blank"}
 
-[11] [Yin, Y. et al. (2022). Public use and public funding of science. Nature human behaviour, 6(10), 1344-1350.](https://www.nature.com/articles/s41562-022-01397-5)
+[11] [Yin, Y. et al. (2022). Public use and public funding of science. Nature human behaviour, 6(10), 1344-1350.](https://www.nature.com/articles/s41562-022-01397-5){:target="_blank"}
 
-[12] [OpenAlex API Documentation](https://docs.openalex.org/)
+[12] [OpenAlex API Documentation](https://docs.openalex.org/){:target="_blank"}
 
-[13] [Marx, M. (2023) Reliance on science. Zenodo](https://zenodo.org/records/10215169)
+[13] [Marx, M. (2023) Reliance on science. Zenodo](https://zenodo.org/records/10215169){:target="_blank"}
 
-[14] [Lin, Z. et al. (2023). SciSciNet: A large-scale open data lake for the science of science research. Scientific Data, 10(1), 315.](https://www.nature.com/articles/s41597-023-02198-9)
+[14] [Lin, Z. et al. (2023). SciSciNet: A large-scale open data lake for the science of science research. Scientific Data, 10(1), 315.](https://www.nature.com/articles/s41597-023-02198-9){:target="_blank"}
 
 ​
 ## Science of science研究会とは？

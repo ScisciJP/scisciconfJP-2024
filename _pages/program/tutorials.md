@@ -9,7 +9,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-本チュートリアルでは、Science of scienceに初めて触れる方のために、汎用的な学術文献データセットである[OpenAlex](https://openalex.org/)のハンズオン分析を行います。
+本チュートリアルでは、Science of scienceに初めて触れる方のために、汎用的な学術文献データセットである[OpenAlex](https://openalex.org/){:target="_blank"}のハンズオン分析を行います。
 データの利用方法から簡易分析まで、本チュートリアルに参加いただければ一通りの分析が可能です。
 実行環境はこちらで用意いたしますので、お気軽にご参加ください。
 

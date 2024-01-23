@@ -21,7 +21,9 @@ p.time { font-style: italic; font-size: 90%; }
 p.speaker-bio { font-style: italic; font-size: 80%; }
 </style>
 
-## 9:00~9:45 基調講演
+## スケジュール
+
+### 9:00~9:45 基調講演
 
 <!-- TBD -->
 <!-- ![Geoffrey Hinton]({{ site.baseurl }}/assets/images/keynotes/geoffrey_hinton.jpg){: .align-center} -->
@@ -33,7 +35,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 <!-- --登壇者説明-- -->
 <!-- {: .speaker-bio} -->
 
-## 9:45~10:30 招待講演
+### 9:45~10:30 招待講演
 
 <!-- TBD -->
 <!-- ![Alison Gopnik]({{ site.baseurl }}/assets/images/keynotes/alison_gopnik.jpg){: .align-center} -->
@@ -45,13 +47,13 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 <!-- --登壇者説明-- -->
 <!-- {: .speaker-bio} -->
 
-## 10:30~11:00 コーヒーブレイク
+### 10:30~11:00 コーヒーブレイク
 
 <!-- 会場にて、お茶、お菓子をご用意します。 -->
 
 <!-- スポンサー:  -->
 
-## 11:00~11:45 ライトニングトーク
+### 11:00~11:45 ライトニングトーク
 
 <!-- * 11:00~11:05 説明 -->
 <!-- * 11:05~11:10 タイトル, 著者名 -->
@@ -62,11 +64,11 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 <!-- * 11:30~11:35 タイトル, 著者名 -->
 <!-- * 11:35~11:40 タイトル, 著者名 -->
 
-## 11:45~13:00 昼食
+### 11:45~13:00 昼食
 
-## 11:45~14:00 ポスターセッション
+### 11:45~14:00 ポスターセッション
 
-## 14:00~15:00 第1回 Science of scienceセミナー
+### 14:00~15:00 第1回 Science of scienceセミナー
 
 <!-- ![Geoffrey Hinton]({{ site.baseurl }}/assets/images/keynotes/geoffrey_hinton.jpg){: .align-center} -->
 
@@ -77,7 +79,7 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 <!-- --登壇者説明-- -->
 <!-- {: .speaker-bio} -->
 
-## 15:00~15:45 招待講演
+### 15:00~15:45 招待講演
 
 <!-- ![Alison Gopnik]({{ site.baseurl }}/assets/images/keynotes/alison_gopnik.jpg){: .align-center} -->
 
@@ -88,11 +90,11 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 <!-- --登壇者説明-- -->
 <!-- {: .speaker-bio} -->
 
-## 15:45~16:15 コーヒーブレイク
+### 15:45~16:15 コーヒーブレイク
 
 <!-- 会場にて、お茶、お菓子をご用意します。 -->
 
-## 16:15~17:00 招待講演
+### 16:15~17:00 招待講演
 
 <!-- * 16:00~16:05 説明 -->
 <!-- * 16:05~16:15 タイトル(社名) -->
@@ -100,11 +102,11 @@ p.speaker-bio { font-style: italic; font-size: 80%; }
 <!-- * 16:25~16:35 タイトル(社名) -->
 <!-- * 16:35~16:45 質疑応答 -->
 
-## 17:00~17:30 General Discussion
+### 17:00~17:30 General Discussion
 
-## 閉会のあいさつ
+### 閉会のあいさつ
 
-# 運営委員
+## 運営委員
 
 * 浅谷 公威(東京大学)
 * 吉田 光男(筑波大学)
