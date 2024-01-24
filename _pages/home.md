@@ -23,7 +23,7 @@ Science of science研究会は、本領域の注目度の高まりを受けて�
 16日にはScience of scienceでよく用いられるデータのハンズオンチュートリアル、17日には基調講演・ポスターセッションを行う予定です。
 
 
-発表締切は**3月1日(月)**、申込締切は**3月8日(金)**になります。
+発表締切は**3月1日(月)**、参加申込締切は**3月8日(金)**になります。
 詳しくは[発表募集/参加申込]({{ site.baseurl }}/program)をご覧ください.
 {: .text-center .notice--info}
 
@@ -48,7 +48,7 @@ Science of science研究会は、本領域の注目度の高まりを受けて�
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
-| 2024-01-24 | [発表申込・参加申込]({{ site.baseurl }}/call)の期限を変更しました。
+| 2024-01-24 | [発表申込・参加申込]({{ site.baseurl }}/calls)の期限を変更しました。
 | 2024-01-24 | [プログラム]({{ site.baseurl }}/program)を公開しました。
 | 2024-01-24 | 2024年の第1回Scisci研究会Webサイトを公開しました。
 {: .news-table}
