@@ -74,7 +74,7 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "custom"
   google:
-    tracking_id          : UA-123579360-1
+    tracking_id          : G-G41FFTHF36
     anonymize_ip         : # true, false (default)
 
 
