@@ -45,9 +45,8 @@ Science of science研究会では、学術活動を対象とするあらゆる�
 
 ## 発表申し込み
 
-<!-- 発表申し込みは、[こちらのGoogleフォーム](https://forms.gle/EzyHWHGRhTSYtSEx6)からお願いいたします。 -->
 発表申し込みは、400字以内のアブストラクトになります。
-提出は、こちらのGoogleフォームからお願いいたします。(2月以降公開)
+[こちらのGoogleフォーム](https://forms.gle/EzyHWHGRhTSYtSEx6){:target="_blank"}からお申し込みください。
 
 ※ タイトル・アブストラクト・著者名はWebサイトに公開されます。
 
