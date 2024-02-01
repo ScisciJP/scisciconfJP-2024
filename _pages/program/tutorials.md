@@ -4,9 +4,9 @@ layout: single
 permalink: /program/tutorials/
 sidebar: 
     nav: program
-toc: true
-toc_sticky: true
-toc_icon: "cog"
+# toc: true
+# toc_sticky: true
+# toc_icon: "cog"
 ---
 
 本チュートリアルでは、Science of scienceに初めて触れる方のために、汎用的な学術文献データセットである[OpenAlex](https://openalex.org/){:target="_blank"}のハンズオン分析を行います。
