@@ -30,27 +30,27 @@ p.speaker-bio { font-style: italic; font-size: 60%; }
    name="浅谷 公威(東京大学工学系研究科 特任講師)"
    picture="/assets/images/committee/kimitaka_asatani.jpg"
    site="https://researchmap.jp/kimitaka_asatani"
-   title="「なぜ今Science of scienceのなのか」"
+   title="「なぜ今Science of scienceなのか」"
 %}
 
 <!-- hogehogefugafuga
 {: .speaker-bio} -->
 
 ***
-### 9:45~10:30 招待講演
+### 9:45~10:45 招待講演
 
 {% include keynote.html
    name="久寿米木 啓悟(Cornell Information Science Ph.D)"
    picture="/assets/images/keynotes/keigo_kusumegi.jpeg"
    site="https://keygoksmg.github.io/"
-   title="[TBD]"
+   title="「学際的研究者のキャリアと生産性」"
 %}
 
 {% include keynote.html
    name="中嶋 一貴(東京都立大学システムデザイン研究科 助教)"
    picture="/assets/images/keynotes/kazuki_nakajima.jpeg"
    site="https://kazuibasou.github.io/"
-   title="[TBD]"
+   title="「日中韓の学術界の性差分析：研究者キャリアと引用慣行に焦点を当てて」"
 %}
 
 <!-- --概要-- -->
@@ -59,14 +59,14 @@ p.speaker-bio { font-style: italic; font-size: 60%; }
 <!-- {: .speaker-bio} -->
 
 ***
-### 10:30~11:00 コーヒーブレイク
+### 10:45~11:15 コーヒーブレイク
 
 会場にて、お茶、お菓子をご用意します。
 
 <!-- スポンサー:  -->
 
 ***
-### 11:00~11:45 ライトニングトーク
+### 11:15~12:00 ライトニングトーク
 
 ポスターセッション発表に先駆けて、発表者によるライトニングトークを行います。
 
@@ -80,12 +80,12 @@ p.speaker-bio { font-style: italic; font-size: 60%; }
 <!-- * 11:35~11:40 タイトル, 著者名 -->
 
 ***
-### 11:45~13:00 昼食
+### 12:00~13:00 昼食
 
 会場にて、お弁当を用意いたします。
 
 ***
-### 11:45~14:00 ポスターセッション
+### 12:00~14:00 ポスターセッション
 
 会場のポスターパネルにて行います。
 スポンサー展示を申し込まれた方は、スポンサーブースをご用意いたします。
@@ -111,7 +111,7 @@ p.speaker-bio { font-style: italic; font-size: 60%; }
    name="持橋 大地(統計数理研究所 数理・推論研究系 准教授)"
    picture="/assets/images/keynotes/daichi_mochihashi.png"
    site="https://researchmap.jp/daichi.mochihashi"
-   title="[TBD]"
+   title="「研究者と大学のベクトル化とその応用」"
 %}
 
 <!-- --概要-- -->
