@@ -48,6 +48,7 @@ Science of science研究会は、本領域の注目度の高まりを受けて�
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2024-02-20 | [招待講演]({{ site.baseurl }}/program/conference)の題目を公開しました。
 | 2024-02-01 | [発表申込]({{ site.baseurl }}/calls)の受付を始めました。
 | 2024-02-01 | [招待講演]({{ site.baseurl }}/program/conference)の登壇者を公開しました。
 | 2024-02-01 | [スポンサー募集]({{ site.baseurl }}/sponsors)を開始しました。
