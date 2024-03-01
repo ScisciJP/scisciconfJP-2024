@@ -48,6 +48,7 @@ Science of science研究会は、本領域の注目度の高まりを受けて�
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 
+| 2024-03-01 | スポンサーを公開しました。
 | 2024-02-20 | [招待講演]({{ site.baseurl }}/program/conference)の題目を公開しました。
 | 2024-02-01 | [発表申込]({{ site.baseurl }}/calls)の受付を始めました。
 | 2024-02-01 | [招待講演]({{ site.baseurl }}/program/conference)の登壇者を公開しました。
@@ -58,4 +59,33 @@ Science of science研究会は、本領域の注目度の高まりを受けて�
 | 2024-01-24 | 2024年の第1回Scisci研究会Webサイトを公開しました。
 {: .news-table}
 
+## スポンサー
 
+<!-- {% include sponsors-list id="diamond" layout="third" %} -->
+
+<style>
+  .sponsor-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .sponsor-container img {
+    height: 200px;
+    object-fit: contain;
+    margin: 10px;
+  }
+
+  @media (max-width: 600px) {
+    .sponsor-container {
+      flex-direction: column;
+    }
+  }
+</style>
+
+<div class="sponsor-container">
+    <img src="{{ '/assets/images/sponsors/desci.png' | relative_url }}" alt="sponsor_desci">
+    <img src="{{ '/assets/images/sponsors/memory.png' | relative_url }}" alt="sponsor_memory">
+    <img src="{{ '/assets/images/sponsors/valuenex.jpg' | relative_url }}" alt="sponsor_valuenex">
+</div>
