@@ -85,7 +85,13 @@ Science of science研究会は、本領域の注目度の高まりを受けて�
 </style>
 
 <div class="sponsor-container">
-    <img src="{{ '/assets/images/sponsors/desci.png' | relative_url }}" alt="sponsor_desci">
-    <img src="{{ '/assets/images/sponsors/memory.png' | relative_url }}" alt="sponsor_memory">
-    <img src="{{ '/assets/images/sponsors/valuenex.jpg' | relative_url }}" alt="sponsor_valuenex">
+    <a href="https://lit.link/en/descitokyo" target="_blank">
+      <img src="{{ '/assets/images/sponsors/desci.png' | relative_url }}" alt="sponsor_desci">
+    </a>
+    <a href="https://www.memorylab.jp/" target="_blank">
+      <img src="{{ '/assets/images/sponsors/memory.png' | relative_url }}" alt="sponsor_memory">
+    </a>
+    <a href="https://www.valuenex.com/?lang=ja" target="_blank">
+      <img src="{{ '/assets/images/sponsors/valuenex.jpg' | relative_url }}" alt="sponsor_valuenex">
+    </a>
 </div>
